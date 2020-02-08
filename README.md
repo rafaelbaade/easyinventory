@@ -3,7 +3,7 @@ Aplicação para realização de contagens e auxiliar no processo de inventário
 
 Repositório utilizado como laboratório para .Net Blazor WebAssembly.
 
-[![Build Status](https://dev.azure.com/rafaelbaade/EasyInventory/_apis/build/status/EasyInventory%20-%20Dev?branchName=develop)](https://dev.azure.com/rafaelbaade/EasyInventory/_build/latest?definitionId=4&branchName=develop)
+[![Build Status](https://dev.azure.com/rafaelbaade/EasyInventory/_apis/build/status/EasyInventory%20-%20Master?branchName=develop)](https://dev.azure.com/rafaelbaade/EasyInventory/_build/latest?definitionId=6&branchName=develop)
 
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=rafaelbaade_easyinventory&metric=ncloc)](https://sonarcloud.io/dashboard?id=rafaelbaade_easyinventory)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rafaelbaade_easyinventory&metric=alert_status)](https://sonarcloud.io/dashboard?id=rafaelbaade_easyinventory)
