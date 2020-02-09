@@ -1,4 +1,5 @@
-# Easy Inventory
+![Easy Inventory](https://dev.azure.com/rafaelbaade/_apis/GraphProfile/MemberAvatars/a2659969-2aab-470b-9581-fa8c32f0ef55?overrideDisplayName=EasyInventory&size=2)
+
 Aplicação para realização de contagens e auxiliar no processo de inventário.
 
 Repositório utilizado como laboratório para .Net Blazor WebAssembly.
